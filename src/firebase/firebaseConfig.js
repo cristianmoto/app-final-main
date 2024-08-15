@@ -1,0 +1,1 @@
+export const baseUrl ="https://final-app-d982e-default-rtdb.firebaseio.com";
